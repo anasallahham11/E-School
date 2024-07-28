@@ -1,0 +1,43 @@
+{
+  "home": "Home",
+  "news": "News",
+  "profile":"Profile",
+  "about":"About Us",
+  "language":"Language",
+  "settings":"Settings",
+  "logout":"Logout",
+
+
+  "teacher":"Teacher",
+  "parents": "Parents",
+  "student": "Student",
+  "children": "Children",
+  "subject": "Subject",
+  "grade": "Grade",
+  "section": "Section",
+  "account":"Account",
+
+  "attendance": "Attendance",
+  "marks": "Marks",
+  "schedule": "Timetable",
+  "library": "Library",
+  "notices": "Notices",
+  "exams": "Exams",
+  "complaints": "Complaints",
+  "files": "Files",
+  "books": "Books",
+
+  "t1": "See your daily timetables here...",
+  "t2": "Upload files here...",
+
+  "timeline":"Timeline",
+  "like":"Like",
+  "likes":"Likes",
+  "comments":"Comments",
+  "writeComment":"write a comment...",
+  "likescreen":"People who liked this",
+  "nolikes":"No likes yet...",
+  "nocomments":"No comments yet...",
+  "commentsscreen":"Latest comments"
+
+}
